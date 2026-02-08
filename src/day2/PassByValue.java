@@ -36,8 +36,10 @@ public class PassByValue {
 
         {
             b=15;
+            int c = 20;
         }
         System.out.println(b);
+
 
     }
 
